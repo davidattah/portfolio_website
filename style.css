@@ -56,7 +56,7 @@ body {
    SECTION GLOBALS
 ===================== */
 .section {
-  padding: clamp(3rem, 6vw, 5rem) 1.5rem;
+  padding: clamp(3rem, 6vw, 5rem) 2.5rem;
 }
 
 .section.dark {

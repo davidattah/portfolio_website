@@ -33,7 +33,3 @@ Cybersecurity labs & SOC projects
 Data analysis projects and dashboards
 
 Documentation showing how I think, investigate, and solve problems
-
-🌐 Portfolio
-
-🔗 [Your portfolio website link here]

@@ -1,6 +1,6 @@
-👋 Hi, I’m David
+👋 Hi, I’m David Attah - Ogbole
 
-I’m a Cybersecurity Analyst / Data Analyst with a strong foundation in SOC operations, including alert triage, log analysis, and incident investigation across Windows and cloud environments.
+I’m a Cybersecurity Analyst with a background in Data Analysis with a strong foundation in SOC operations, including alert triage, log analysis, and incident investigation across Windows and cloud environments.
 
 I bring a data-driven approach to security, combining hands-on experience with SIEM tools, endpoint security concepts, and identity-based threats with a solid background in data analysis and information systems. I enjoy turning raw security and operational data into clear, actionable insights that support better decision-making and stronger security posture.
 

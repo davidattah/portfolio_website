@@ -72,9 +72,9 @@ body {
    HOME / HERO
 ===================== */
 .home-section {
-  padding: 90px 0;
+  padding: 90px 0 0 20px;
   background: #11151c;
-  padding-left: 20px;
+
 }
 
 .hero {

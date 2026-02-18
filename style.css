@@ -238,10 +238,10 @@ body {
   display: block;
 }
 
-.card-link,
-.card-link:hover,
-.card-link:visited,
-.card-link:active {
+.card>a,
+.card>a:hover,
+.card>a:visited,
+.card>a:active {
   color: inherit;
   text-decoration: none;
   display: block;
